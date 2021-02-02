@@ -1,0 +1,18 @@
+body {
+    background: #e3e3e3;
+}
+
+canvas {
+    /*canvas default is inline*/
+    display: block;
+    /* centering out */
+    margin: 0 auto;
+    background: pink;
+    cursor: pointer;
+}
+
+#cmp_image {
+    text-align: center;
+    margin-top: 2.5em;
+    margin-bottom: 2.5em;
+}
